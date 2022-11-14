@@ -1,8 +1,16 @@
-div {
-    color: white;
-    background-color: black;
-  }
-  
-  p {
-    color: red;
-  }
+#Odin {
+  font-family:Copperplate, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color:brown;
+
+}
+
+.recipe {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  color: black;
+  background-color: blanchedalmond;
+
+}
