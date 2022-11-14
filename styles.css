@@ -14,3 +14,22 @@
   background-color: blanchedalmond;
 
 }
+h1 {
+  text-align: center;
+}
+body {
+  background-color: blanchedalmond;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.captions {
+  font-style: italic;
+  text-align: center;
+}
